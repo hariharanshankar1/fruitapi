@@ -1,0 +1,1 @@
+web: gunicorn imageview_project.wsgi
